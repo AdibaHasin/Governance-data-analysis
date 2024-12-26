@@ -18,8 +18,8 @@ Key Analyses and Insights
 Global Governance Trends
    ---------------------------------------------
 
-•	Analysis: Examined average governance estimates globally over the years.
-•	Visualization: A time-series plot showed fluctuations in global governance.
+Analysis: Examined average governance estimates globally over the years.
+Visualization: A time-series plot showed fluctuations in global governance.
 
 •	Key Insight:
 ----------------
@@ -29,8 +29,8 @@ Global Governance Trends
 Regional Governance Trends
    --------------------------------------
 
-•	Analysis: Investigated governance trends over time for different regions.
-•	Visualization: Line plots of governance scores by region.
+Analysis: Investigated governance trends over time for different regions.
+Visualization: Line plots of governance scores by region.
 
 •	Key Insights:
 -----------------------
@@ -38,12 +38,12 @@ Regional Governance Trends
 2.	Asia: Gradual recovery post-2010, but governance remains below global averages.
 3.	Africa: Lowest governance scores, with slight improvement over time.
 4.	Oceania: Declining governance trend after 2005.
-5. 	South America: Decline after 2000, with slight recovery post-2015.
+5. South America: Decline after 2000, with slight recovery post-2015.
    
    Governance Variability by Region
    ------------------------------------
-•	Analysis: Calculated the standard deviation of governance scores within each region.
-•	Visualization: Bar chart showing variability.
+Analysis: Calculated the standard deviation of governance scores within each region.
+Visualization: Bar chart showing variability.
 
 •	Key Insights:
 ---------------------
@@ -53,7 +53,7 @@ Regional Governance Trends
    
    Top and Worst Performers
    ---------------------------
-•	Analysis: Ranked countries by their average governance scores across years.
+Analysis: Ranked countries by their average governance scores across years.
 
 •	Key Insights:
 --------------------
@@ -63,8 +63,8 @@ Regional Governance Trends
    
    Time-Series Analysis
    ----------------------------
-•	Analysis: Investigated governance trends globally and by region over time.
-•	Visualization: Line plots with confidence bands for variability.
+Analysis: Investigated governance trends globally and by region over time.
+Visualization: Line plots with confidence bands for variability.
 
 •	Key Insights:
 --------------------
@@ -74,9 +74,9 @@ Regional Governance Trends
    
    Analysis of Governance and GDP
    ----------------------------------
-•	Analysis: Merged GDP data with governance scores to explore their relationship.
-•	Key Insights:
-o	Correlation:
+Analysis: Merged GDP data with governance scores to explore their relationship.
+Key Insights:
+Correlation:
 1.	Raw GDP and governance scores showed a very weak correlation, suggesting economic size alone does not explain governance quality.
 2.	Log-transformed GDP showed a slight negative correlation with governance scores, indicating that wealthier countries may still face governance challenges.
 

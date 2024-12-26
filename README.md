@@ -1,5 +1,5 @@
 This project analyses governance trends across various regions and years using a dataset of governance indicators. Key objectives include identifying regional governance trends, exploring variability within regions, and investigating global governance changes over time.
-------------------------------------------
+
 Dataset
 -------
 Source

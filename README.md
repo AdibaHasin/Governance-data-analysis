@@ -15,7 +15,7 @@ The dataset includes governance estimates by country and year. Key columns:
 ---------------------------------------------
 Key Analyses and Insights
 ---------------------------------------------
-1. Global Governance Trends
+Global Governance Trends
    ---------------------------------------------
 
 •	Analysis: Examined average governance estimates globally over the years.
@@ -26,7 +26,7 @@ Key Analyses and Insights
 1.	A notable dip in governance around 2005, followed by gradual recovery post-2010.
 2.	Stabilization near -0.1 in recent years, indicating limited global progress.
    
-2. Regional Governance Trends
+Regional Governance Trends
    --------------------------------------
 
 •	Analysis: Investigated governance trends over time for different regions.
@@ -40,7 +40,7 @@ Key Analyses and Insights
 4.	Oceania: Declining governance trend after 2005.
 5. 	South America: Decline after 2000, with slight recovery post-2015.
    
-3. Governance Variability by Region
+   Governance Variability by Region
    ------------------------------------
 •	Analysis: Calculated the standard deviation of governance scores within each region.
 •	Visualization: Bar chart showing variability.
@@ -51,7 +51,7 @@ Key Analyses and Insights
 2.	Africa: Lowest variability, reflecting uniformly low governance scores.
 3.	Asia: Moderate variability, consistent with a mix of developing and developed countries.
    
-4. Top and Worst Performers
+   Top and Worst Performers
    ---------------------------
 •	Analysis: Ranked countries by their average governance scores across years.
 
@@ -61,7 +61,7 @@ Key Analyses and Insights
 1.	Top Performer: Singapore consistently achieved the highest governance scores globally.
 2.	Worst Performer: Somalia consistently had the lowest governance scores globally.
    
-5. Time-Series Analysis
+   Time-Series Analysis
    ----------------------------
 •	Analysis: Investigated governance trends globally and by region over time.
 •	Visualization: Line plots with confidence bands for variability.
@@ -72,7 +72,7 @@ Key Analyses and Insights
 1.	The 2005 dip and post-2010 recovery were driven primarily by trends in Asia and Africa.
 2.	Europe’s steady improvement stabilized global governance trends.
    
-6. Analysis of Governance and GDP
+   Analysis of Governance and GDP
    ----------------------------------
 •	Analysis: Merged GDP data with governance scores to explore their relationship.
 •	Key Insights:
